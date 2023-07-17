@@ -233,8 +233,8 @@ for(x=0;x<=47;x++)
 
    else
    {
-   	cout<<"SAALE !! JYADA HOSHIYAARI NA DIKHAA "<<endl;
-   	cout<<"KHELNA TO KHEL NHI TO POGO DEKH, CHALL!!!!"<<endl;
+   	cout<<"That's an INVALID MOVE!! "<<endl;
+   	cout<<"Please make choice from one of the above...."<<endl;
    	return(m);
    }
 	
