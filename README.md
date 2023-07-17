@@ -1,6 +1,10 @@
 # CHESS WITH C++
 
 A multiplayer chess game written completely in C++ , fun to PLAY !!
+## Random Screenshots from the Game
+![out1](https://github.com/aadhar-jain/CHESS-CPP/assets/128128944/9c2657b9-be12-4a09-a455-62d9204f0119)
+![output1](https://github.com/aadhar-jain/CHESS-CPP/assets/128128944/5a93146c-e60a-43c9-b2d3-feb217425edb)
+![out3](https://github.com/aadhar-jain/CHESS-CPP/assets/128128944/d097a548-d271-4e0d-a8dd-a6e124940b74)
 
 ## How to try ?
 
